@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Configuration status="warn" name="Brewery" packages="">
     <Properties>
-        <Property name="baseDir">/logs/</Property>
+        <Property name="baseDir">logs/</Property>
         <Property name="fileName">brewery</Property>
     </Properties>
     <Appenders>
@@ -38,7 +38,7 @@
             <AppenderRef ref="LogToConsole"/>
             <AppenderRef ref="LogToFile"/>
         </Logger>
-        <Root level="info">
+        <Root level="INFO">
             <AppenderRef ref="LogToConsole"/>
             <AppenderRef ref="LogToFile"/>
         </Root>
