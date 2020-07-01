@@ -1,0 +1,1 @@
+[![CircleCI](https://circleci.com/gh/kjaroslawski/tsbb-eq-brewery.svg?style=svg)](https://circleci.com/gh/kjaroslawski/tsbb-eq-brewery)
